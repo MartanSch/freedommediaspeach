@@ -19,7 +19,7 @@ git clone https://github.com/your-username/your-repository.git cd your-repositor
 ## Requirements
 - Python 3.x
 - Jupyter Notebook
-- Pandas, Matplotlib (if used in the notebook)
+- Pandas, Matplotlib, and other libraries (if used in the notebook)
 
 ## Contributing
 Feel free to submit issues or pull requests for improvements. Contributions are welcome!
