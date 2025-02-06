@@ -1,7 +1,7 @@
-# freedommediaspeach
+# Analysis of relationship between independent media, free speech and overall freedom
 
 ## Description
-This project involves the analysis and methodology documentation of the *Freedom in the World 2024* report, which assesses political rights and civil liberties across various countries and territories. The dataset and methodology guide are used for data-driven insights and reporting.
+This project involves the analysis and methodology documentation of the *Freedom in the World 2024* report, which assesses political rights and civil liberties across various countries and territories. We focused on analysising the relationship between independent media, free speech and overall freedom. The dataset and methodology guide are used for data-driven insights and reporting.
 
 ## Contents
 - `FHdataset2.csv`: Dataset containing relevant data for the Freedom House 2024 report.
